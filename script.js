@@ -533,7 +533,7 @@ function proceedWithPhonePe() {
     if (!totalInRupeesElement) return;
     
     const totalInRupees = totalInRupeesElement.textContent;
-    const upiId = '8709754019@ybl';
+    const upiId = 'rajput45@ybl';
     const merchantName = 'BookMarket';
     const transactionNote = 'BookMarket Purchase';
     
